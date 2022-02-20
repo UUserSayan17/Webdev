@@ -1,4 +1,4 @@
-const PORT = 8080
+const PORT =process.env.PORT || 5000
 const express = require('express')
 const axios = require('axios')
 const { response } = require('express')
