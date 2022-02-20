@@ -1,0 +1,4 @@
+{
+    "url": "mongodb+srv://SlokeDev:Onion1%403@cluster0.19qqn.mongodb.net/test?authSource=admin&replicaSet=atlas-13vh5m-shard-0&readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=true",
+    "mongoDb":"demoDB"
+}
